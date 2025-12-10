@@ -1,0 +1,18 @@
+GET /logout HTTP/1.1
+Host: demowebshop.tricentis.com
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://demowebshop.tricentis.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: Nop.customer=2db0dd6c-3ee4-4c7e-a37a-7df78c607ebf; ARRAffinity=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; ARRAffinitySameSite=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; __utma=78382081.795529203.1765360403.1765360403.1765360403.1; __utmc=78382081; __utmz=78382081.1765360403.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __RequestVerificationToken=pLWT5N-NAeg-gtkbWXbYLABsZLgJ1IZMFyg8MKcNnbVIxoknTneCH0sdCCztENGFbRvw4aqyE_7yeThffRe-Mr2UFzPPiHrhCnFQSLCvCEs1; NOPCOMMERCE.AUTH=215B2D3C41791E09928275CB8185DBD83AF7545A4C9454986165B14F656E95113CF40C12F54B8F55DEA97BB3FB3A14ABF1F7C2205FB6F1452AF427F5F78D7C4C85D53C51637684597DCFF51681050D880F67810EFD8A6C3B70387BEE91D38EFCD81A0F8F7BDFE8F414E3EE769910EE06664552FD3B7CDEDDC9116072D87D4CA32581C8E14F91E4C7406E20DD50FE50BE5B5E20C3D9962BD71E839C0B88CD5D0E02612F0B6032A65891892628DB9C761E; __utmb=78382081.4.10.1765360403
+

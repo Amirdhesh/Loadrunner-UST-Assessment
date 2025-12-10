@@ -1,0 +1,5 @@
+"{\"entries\":[{\"failure_data\":{\"custom_error\":\"net::ERR_ABORTED\"},\"http_response_code\""
+":200,\"network_changed\":false,\"protocol\":\"HTTP\",\"request_age_ms\":172341,\"request_elaps"
+"ed_ms\":1223,\"sample_rate\":1.0,\"server_ip\":\"\",\"status\":\"aborted\",\"url\":\"https://b"
+"eacons.gcp.gvt2.com/domainreliability/upload\",\"was_proxied\":false}],\"reporter\":\"chrome\""
+"}"

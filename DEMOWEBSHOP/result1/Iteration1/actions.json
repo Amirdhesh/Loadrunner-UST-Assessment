@@ -1,0 +1,144 @@
+[
+    {
+        "actionName": "Register",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: demowebshop.tricentis.com",
+                "infFile": "t1.inf",
+                "time": 1765362632530
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Register",
+                "infFile": "t3.inf",
+                "time": 1765362632917
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: register",
+                "infFile": "t4.inf",
+                "time": 1765362633594
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: Tricentis Demo Web Shop",
+                "infFile": "t5.inf",
+                "time": 1765362634072
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: Log out",
+                "infFile": "t6.inf",
+                "time": 1765362634690
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Registration",
+                "rawStartTime": 1765362632544,
+                "rawEndTime": 1765362634086,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0365595817565918
+            }
+        ]
+    },
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: login",
+                "infFile": "t7.inf",
+                "time": 1765362635087
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: login_2",
+                "infFile": "t8.inf",
+                "time": 1765362635902
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Login",
+                "rawStartTime": 1765362634717,
+                "rawEndTime": 1765362635913,
+                "thinkTime": 0.0,
+                "wastedTime": 0.015236139297485352
+            }
+        ]
+    },
+    {
+        "actionName": "Search",
+        "steps": [
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: searchtermautocomplete",
+                "infFile": "t9.inf",
+                "time": 1765362636239
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: search",
+                "infFile": "t10.inf",
+                "time": 1765362637096
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Search",
+                "rawStartTime": 1765362635945,
+                "rawEndTime": 1765362637111,
+                "thinkTime": 0.0,
+                "wastedTime": 0.019259929656982423
+            }
+        ]
+    },
+    {
+        "actionName": "AddToCart",
+        "steps": [
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: health",
+                "infFile": "t11.inf",
+                "time": 1765362639045
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Submit Data: 1",
+                "infFile": "t12.inf",
+                "time": 1765362639489
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "add to cart",
+                "rawStartTime": 1765362637143,
+                "rawEndTime": 1765362639499,
+                "thinkTime": 0.0,
+                "wastedTime": 0.017480850219726564
+            }
+        ]
+    },
+    {
+        "actionName": "Logout",
+        "steps": [
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: logout",
+                "infFile": "t13.inf",
+                "time": 1765362640820
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Logout",
+                "rawStartTime": 1765362639530,
+                "rawEndTime": 1765362640829,
+                "thinkTime": 0.0,
+                "wastedTime": 0.007761478424072266
+            }
+        ]
+    }
+]

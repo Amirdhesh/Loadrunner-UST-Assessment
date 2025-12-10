@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Length: 36812
+Content-Type: text/html; charset=utf-8
+Date: Wed, 10 Dec 2025 09:57:22 GMT
+Server: Microsoft-IIS/10.0
+Cache-Control: private
+Set-Cookie: Nop.customer=011ca22d-2f9b-4f2c-a318-dfbf782b7524; expires=Thu, 10-Dec-2026 09:57:21 GMT; path=/; HttpOnly
+Set-Cookie: Nop.customer=011ca22d-2f9b-4f2c-a318-dfbf782b7524; expires=Thu, 10-Dec-2026 09:57:21 GMT; path=/; HttpOnly
+Set-Cookie: NopCommerce.RecentlyViewedProducts=RecentlyViewedProductIds=22; expires=Sat, 20-Dec-2025 09:57:21 GMT; path=/; HttpOnly
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+

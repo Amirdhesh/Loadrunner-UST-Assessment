@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Desktop\Assessment\DEMOWEBSHOP
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\administrator\desktop\assessment\demowebshop\\logfile.log
+c:\users\administrator\desktop\assessment\demowebshop\\combined_DEMOWEBSHOP.c
+c:\users\administrator\desktop\assessment\demowebshop\\pre_cci.c

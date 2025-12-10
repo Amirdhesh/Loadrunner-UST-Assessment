@@ -1,0 +1,4 @@
+"{\"entries\":[{\"http_response_code\":200,\"network_changed\":false,\"protocol\":\"HTTPS\",\"r"
+"equest_age_ms\":72215,\"request_elapsed_ms\":56,\"sample_rate\":0.05,\"server_ip\":\"142.251.4"
+"3.40:443\",\"status\":\"ok\",\"url\":\"https://ssl.google-analytics.com/\",\"was_proxied\":fal"
+"se}],\"reporter\":\"chrome\"}"

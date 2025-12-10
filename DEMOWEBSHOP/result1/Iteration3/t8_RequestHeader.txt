@@ -1,0 +1,12 @@
+POST /login HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://demowebshop.tricentis.com/login
+Accept-Language: en-US,en;q=0.9
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: Keep-Alive
+Host: demowebshop.tricentis.com
+Cookie: Nop.customer=8f4bf93e-d68e-448f-8c70-84e9ce474085; ARRAffinity=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; ARRAffinitySameSite=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; __RequestVerificationToken=T-wxrC1okNCJXg7wt1xS3PJx-f8kVeoNsvY-rn5th0G5xKkLwFtqFrsnvG8RgUySuLP4-JiSU4bb5tgQiA9tBfGNmaf0dKw6bXNlcYv0gr81; ASP.NET_SessionId=s3s3jxsomwtzio4o2rhc2t0b
+Content-Length: 62
+

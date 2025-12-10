@@ -1,0 +1,10 @@
+GET /logout HTTP/1.1
+Referer: https://demowebshop.tricentis.com/
+Accept-Language: en-US,en;q=0.9
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: Keep-Alive
+Host: demowebshop.tricentis.com
+Cookie: Nop.customer=886b84e1-0dc7-4238-a86f-19cf7037ca5e; ARRAffinity=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; ARRAffinitySameSite=aeff9384aa58dd80a06097da55d76e7a00364bf1f86c5304e8c691754ded5177; __RequestVerificationToken=5K4-IF_pp6KkhJ5chA6FGbq_uShvpJ46rOFRDBsV34Otxmelm6tgXTNlKHHsiaVLaLLLpJbOdU-8M57YTfRMn9D6LqQrWCE9wskfWy5VFp41
+

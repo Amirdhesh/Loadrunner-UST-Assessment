@@ -1,0 +1,8 @@
+[Search]
+SnapshotIndex=I2_Search
+[Register]
+SnapshotIndex=I2_Register
+[AddToCart]
+SnapshotIndex=I2_AddToCart
+[Login]
+SnapshotIndex=I2_Login
